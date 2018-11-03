@@ -8,6 +8,19 @@
 ## Emulador de Consola para windows:
   
  - http://cmder.net/
+
+## pagina con configuraciones .gitignore:
+
+ - https://www.gitignore.io/ 
+ 
+ ## para personalizar el DOMINIO (es de paga):
+ 
+ - https://www.namecheap.com/
+ 
+ ## gitHUB Desktop
+ 
+ https://desktop.github.com/
+
  
  
 
